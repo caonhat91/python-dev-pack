@@ -25,6 +25,8 @@
   "extensionPack": [
     "ms-python.python",
     "littlefoxteam.vscode-python-test-adapter",
+    "ms-vscode.test-adapter-converter",
+    "hbenl.vscode-test-explorer",
     "njpwerner.autodocstring",
     "ms-python.black-formatter",
     "usernamehw.errorlens",
