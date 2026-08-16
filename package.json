@@ -2,7 +2,7 @@
   "name": "nick-python-dev-pack",
   "displayName": "Python Pack for Python developer",
   "description": "A collection of useful extensions for Python Developer.",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "engines": {
     "vscode": "*"
   },
