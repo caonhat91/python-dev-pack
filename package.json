@@ -30,7 +30,10 @@
     "njpwerner.autodocstring",
     "ms-python.black-formatter",
     "usernamehw.errorlens",
-    "charliermarsh.ruff"
+    "charliermarsh.ruff",
+    "yzhang.markdown-all-in-one",
+    "k--kato.intellij-idea-keybindings",
+    "vscode-icons-team.vscode-icons"
   ],
   "scripts": {
     "package": "npx vsce package",

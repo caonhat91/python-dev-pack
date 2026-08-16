@@ -11,3 +11,6 @@ By installing Extension Pack for Python Developer, the following extensions are 
 + 📦 Black Formatter
 + 📦 Error Lens
 + 📦 Ruff
++ 📦 Markdown All in One
++ 📦 IntelliJ IDEA Keybindings
++ 📦 vscode-icons
